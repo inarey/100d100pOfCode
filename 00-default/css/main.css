@@ -283,3 +283,8 @@ ul {
   margin: 0 auto;
   margin-top: -1rem;
 }
+
+.smallText {
+  font-size: var(--smallText);
+  color: var(--error);
+}
