@@ -79,7 +79,7 @@ html {
 }
 
 body {
-  background: var(--gray-50);
+  background: var(--gray-100);
   font-family: var(--baseFont);
   font-weight: 400;
   line-height: 1.75;
